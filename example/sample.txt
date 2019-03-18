@@ -1,0 +1,5 @@
+2019-03-18 17:04:37.490  INFO 5670 --- [  restartedMain] EnableEncryptablePropertiesConfiguration : Bootstraping jasypt-string-boot auto configuration in context: application-1
+2019-03-18 17:04:37.490 DEBUG 5670 --- [  restartedMain] c.c.e.iot.parse.core.ParseApplication    : The following profiles are active: development
+2019-03-18 17:04:38.940  WARN 5670 --- [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-03-18 17:04:38.940 ERROR 5670 --- [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-03-18 17:04:39.137  INFO 5670 --- [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 189ms. Found 25 repository interfaces.
