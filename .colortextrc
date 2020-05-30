@@ -1,7 +1,0 @@
-
-WORD_COLOR="
-ERROR:$red
-WARN:$yellow
-INFO:$green
-DEBUG:$blue
-"
