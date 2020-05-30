@@ -1,0 +1,33 @@
+{
+  "name": "colortext",
+  "version": "0.2.0",
+  "description": "Color text",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "bin": {
+    "colortext": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eks5115/colortext.git"
+  },
+  "keywords": [
+    "color",
+    "text"
+  ],
+  "author": "eks5115",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/eks5115/colortext/issues"
+  },
+  "homepage": "https://github.com/eks5115/colortext#readme",
+  "dependencies": {
+    "config": "^3.3.1",
+    "yargs": "^13.2.2"
+  }
+}
