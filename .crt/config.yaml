@@ -9,5 +9,3 @@ rules:
     color: blue
 
 color:
-  red: "\e[31m"
-  green: "\e[32m"
