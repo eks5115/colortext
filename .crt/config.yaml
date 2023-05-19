@@ -1,0 +1,13 @@
+rules:
+  - regex: "(error|Error|ERROR)"
+    color: red
+  - regex: "(warn|Warn|WARN)"
+    color: yellow
+  - regex: "(info|Info|INFO)"
+    color: green
+  - regex: "(debug|Debug|DEBUG)"
+    color: blue
+
+color:
+  red: "\e[31m"
+  green: "\e[32m"
